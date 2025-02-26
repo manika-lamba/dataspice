@@ -1,0 +1,71 @@
+{
+  "@context": "http://schema.org",
+  "type": "Dataset",
+  "name": "xxx",
+  "creator": [
+    {
+      "type": "Person",
+      "id": "xxx",
+      "email": "lambamanika08",
+      "affiliation": "uiuc",
+      "name": "lamba"
+    },
+    {
+      "type": "Person",
+      "id": "ss",
+      "email": "lambamanika08",
+      "affiliation": "uiuc",
+      "name": "piyush"
+    },
+    {
+      "type": "Person",
+      "id": "ww",
+      "email": "lambamanika08",
+      "affiliation": "uiuc",
+      "name": "rathee"
+    },
+    {
+      "type": "Person",
+      "id": "ss",
+      "email": "lambamanika08",
+      "affiliation": "uiuc",
+      "name": "seema"
+    }
+  ],
+  "description": "yello",
+  "datePublished": "24-5-2024",
+  "keywords": "topic modeling",
+  "funder": "NSF",
+  "temporalCoverage": "NA/NA",
+  "license": "MIT",
+  "spatialCoverage": {
+    "type": "Place",
+    "name": "NY",
+    "geo": {
+      "type": "GeoShape",
+      "box": "NA NA NA NA"
+    }
+  },
+  "variableMeasured": [
+    {
+      "type": "PropertyValue",
+      "unitText": null,
+      "name": "best",
+      "description": "helo"
+    }
+  ],
+  "distribution": [
+    {
+      "type": "DataDownload",
+      "name": "lamba",
+      "contentUrl": "whatever",
+      "encodingFormat": "txt"
+    },
+    {
+      "type": "DataDownload",
+      "name": "rathee",
+      "contentUrl": "usa",
+      "encodingFormat": "pdf"
+    }
+  ]
+}
